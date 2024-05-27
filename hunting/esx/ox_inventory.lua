@@ -1,4 +1,4 @@
-## Copy & paste these items in your data/items.lua
+
 
 ['recycler'] = {
     label = 'Recycler',

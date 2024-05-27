@@ -1,0 +1,1 @@
+recycler 				= {name = "recycler",  	        label = "Recycler",	 		    weight = 2500, 		type = "item", 		image = "recycler.png", 			unique = true, 	    useable = true, 	shouldClose = true,   	combinable = nil,   description = "Everyone has to do their part for the environment!"},
